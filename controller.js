@@ -7,6 +7,5 @@ songControllers.controller('getAlbumCtrl', ['$scope', '$http',
             $scope.listing = $scope.album.tracks;
           });
           
-        }]);
-                            
+        }]);        
 
